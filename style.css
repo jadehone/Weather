@@ -1,6 +1,6 @@
 body{
   min-height: 100vh;
-  background-image: url("http://jadehone.com/assets/weather-images/weather-background.jpg");
+  background-image: url("\weather-images/weather-background.jpg");
   background-size: cover;
   font-family: 'Kaushan Script', cursive;
   display: flex;
